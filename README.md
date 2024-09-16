@@ -45,10 +45,10 @@ Daimyo connects seamlessly to the wealth of data available to restaurants—from
 
 We've created detailed demo videos showcasing each module in action. Explore how Daimyo can transform restaurant management by clicking the links below:
 
-- [Custom Alerts](#) – Learn how Daimyo sends automated alerts and suggests responses to reviews.
-- [Automated Reports](#) – Watch how restaurants can set up and automate custom reports.
-- [SQL Chat](#) – See Daimyo answer complex questions in natural language.
-- [RAG Chat & Dashboard](#) – Discover Daimyo's future-proof interactive analytics dashboard.
+- [Custom Alerts](./CustomAlerts) – Learn how Daimyo sends automated alerts and suggests responses to reviews.
+- [Automated Reports](./AutomatedReports) – Watch how restaurants can set up and automate custom reports.
+- [SQL Chat](./DatabaseChat) – See Daimyo answer complex questions in natural language.
+- [RAG Chat & Dashboard](./RAGChat) – Discover Daimyo's future-proof interactive analytics dashboard.
 
 ## 🙌 Conclusion
 
