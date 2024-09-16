@@ -1,0 +1,7 @@
+google-maps-reviews==0.0.3         
+twilio==8.0.0                      
+SQLAlchemy==2.0.18                 
+pyshorteners==1.0.1                
+langchain-core==0.1.30            
+langchain-ibm==0.0.1               
+pydantic==1.10.7                   
