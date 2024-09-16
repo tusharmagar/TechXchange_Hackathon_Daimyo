@@ -1,11 +1,15 @@
 # TechXchange_Hackathon_Daimyo
 Details the work done by team Daimyo for the IBM TechXchange Pre-Conference watsonx Hackathon under the path "Build a generative AI application for a use case supporting productivity with IBM watsonx.ai, featuring IBM Granite"
 
-# 🏆 Daimyo: Revolutionizing Restaurant Efficiency with WatsonX AI
+## ❓ What is Daimyo?
 
-Welcome to **Daimyo**, a comprehensive SaaS platform powered by WatsonX AI's Granite models, designed to help restaurants save time and optimize their operations. Built with accessibility and scalability in mind, Daimyo is already saving restaurants 7-9 hours weekly, even in its current proof-of-concept stage.
+Welcome to **Daimyo**, a comprehensive SaaS platform powered by **WatsonX AI's Granite models**, designed to help restaurants save time and optimize their operations. Built with accessibility and scalability in mind, Daimyo is already making a significant impact, streamlining restaurant operations and enhancing efficiency even in its current proof-of-concept stage.
 
 This project was developed as part of the **WatsonX Hackathon**, and we believe Daimyo has the potential to redefine business intelligence for small to medium-scale restaurants.
+
+## 🎯 Why Daimyo?
+
+We built Daimyo with one clear goal: **to empower restaurants to make data-driven decisions quickly and efficiently**, no matter their scale. Whether it’s automating reports, generating actionable insights, or leveraging cutting-edge AI to respond to customer feedback, Daimyo does it all.
 
 ## 🚀 Features
 
@@ -36,17 +40,6 @@ Daimyo connects seamlessly to the wealth of data available to restaurants—from
 - **Future-Proof Dashboard Integration**: Imagine a world where Daimyo is integrated directly into your POS system, turning raw data into powerful interactive visuals.
 
 > 📈 **Interactive analytics** that go beyond standard reports, giving you a complete understanding of your restaurant's performance.
-
-## 🎯 Why Daimyo?
-
-We built Daimyo with one clear goal: **to empower restaurants to make data-driven decisions quickly and efficiently**, no matter their scale. Whether it’s automating reports, generating actionable insights, or leveraging cutting-edge AI to respond to customer feedback, Daimyo does it all.
-
-### Key Benefits:
-- **7-9 hours saved per week** on manual tasks.
-- **Real-time alerts** and suggested responses for reviews.
-- **Automated, insightful reports** based on your specific needs.
-- **Granite-powered AI** for natural language database queries.
-- **Retrieval Augmented Generation** for understanding hard-to-query data.
 
 ## 📹 In-Depth Demos
 
