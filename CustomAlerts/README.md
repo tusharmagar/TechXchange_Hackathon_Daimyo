@@ -3,7 +3,8 @@
 ## Overview
 This system monitors Google Reviews for specific places and handles them through a series of automated processes. The system fetches and processes new reviews, generates suggested replies using an AI model, and sends notifications or daily summaries via WhatsApp. It also stores reviews and notification statuses in a database.
 
-![Custom Alerts](Custom_alerts.png)
+![Custom Alerts](CustomAlerts/Custom_alerts.png)
+
 
 
 ## System Flow
