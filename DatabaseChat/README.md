@@ -3,6 +3,8 @@
 ## Overview
 This system allows users to ask natural language questions via a chat interface. The questions are processed, converted into SQL queries, and then executed on a connected database. The results are formatted and presented back to the user.
 
+![Database Chat Flow](/images/Database_chat.png)
+
 ## Database Chat Flow
 
 Here’s how the system works:
@@ -13,8 +15,6 @@ Here’s how the system works:
 4. **SQL Query Agent Generates query and executes it**: The model converts the user's query into an SQL statement.The SQL query is run, and the results are retrieved.
 5. **Watsonx Model generates a response**: The results are used by the Watsonx model to generate a user-friendly response, including tables if necessary.
 6. **Response is returned to the user**: The final response is sent back to the user via WhatsApp.
-
-![Database Chat Flow](/images/Database_chat.png)
 
 ## Features
 
