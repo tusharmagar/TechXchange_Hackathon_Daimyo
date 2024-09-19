@@ -2,7 +2,6 @@
 
 ## Overview
 This system allows users to ask natural language questions via a chat interface. The questions are processed, converted into SQL queries, and then executed on a connected database. The results are formatted and presented back to the user.
-![Custom Alerts](images/Custom_alerts.png)
 
 ## Database Chat Flow
 
