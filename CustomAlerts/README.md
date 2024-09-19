@@ -28,7 +28,7 @@ This system monitors Google Reviews for specific places and handles them through
 - **Concurrency**: Uses `ThreadPoolExecutor` to fetch reviews concurrently for multiple places.
 - **Daily Summary Execution**: After fetching reviews, the system generates and sends daily summaries.
 
-![Custom Alerts](/images/Custom_alerts.png)
+![Custom Alerts](images/Custom_alerts.png)
 
 ## Features
 - **Automated Review Fetching**: Retrieves new reviews from Google Maps and processes them.
