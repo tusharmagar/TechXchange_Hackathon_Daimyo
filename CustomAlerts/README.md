@@ -3,10 +3,7 @@
 ## Overview
 This system monitors Google Reviews for specific places and handles them through a series of automated processes. The system fetches and processes new reviews, generates suggested replies using an AI model, and sends notifications or daily summaries via WhatsApp. It also stores reviews and notification statuses in a database.
 
-![Custom Alerts](/images/Custom_alerts.png)
-
 ## System Flow
-
 
 ### 1. Fetch and Store Reviews
 - **Review Fetching**:
@@ -30,6 +27,8 @@ This system monitors Google Reviews for specific places and handles them through
 ### 4. Main Execution Flow
 - **Concurrency**: Uses `ThreadPoolExecutor` to fetch reviews concurrently for multiple places.
 - **Daily Summary Execution**: After fetching reviews, the system generates and sends daily summaries.
+
+![Custom Alerts](/images/Custom_alerts.png)
 
 ## Features
 - **Automated Review Fetching**: Retrieves new reviews from Google Maps and processes them.
