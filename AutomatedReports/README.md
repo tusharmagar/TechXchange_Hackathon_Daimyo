@@ -1,6 +1,7 @@
-# System Overview
+# Overview
 
 This system is designed to analyze and report on customer reviews, providing valuable insights for businesses. It leverages the Watsonx Granite model to process reviews, Twilio for WhatsApp notifications, and a custom-built report generator.
+
 ![Report Generation](/images/Report_generation.png)
 ## Components and Functionality
 
