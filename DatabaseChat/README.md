@@ -14,7 +14,7 @@ Here’s how the system works:
 5. **Watsonx Model generates a response**: The results are used by the Watsonx model to generate a user-friendly response, including tables if necessary.
 6. **Response is returned to the user**: The final response is sent back to the user via WhatsApp.
 
-![Database Chat Flow](images/database_chat.png)
+![Database Chat Flow](SQLChat_pipeline.png)
 
 ## Features
 
