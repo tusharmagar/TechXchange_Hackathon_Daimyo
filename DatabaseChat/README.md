@@ -10,10 +10,9 @@ Here’s how the system works:
 1. **User asks a question**: The user sends a natural language query via WhatsApp.
 2. **Twilio forwards the message**: Twilio API handles the message and forwards it to the server.
 3. **Flask API processes the request**: The server receives the request and sends the question to the SQL Query Generator Model.
-4. **SQL Query Generator creates a query**: The model converts the user's query into an SQL statement.
-5. **Database executes the query**: The SQL query is run, and the results are retrieved.
-6. **Watsonx Model generates a response**: The results are used by the Watsonx model to generate a user-friendly response, including tables if necessary.
-7. **Response is returned to the user**: The final response is sent back to the user via WhatsApp.
+4. **SQL Query Agent Generates query and executes it**: The model converts the user's query into an SQL statement.The SQL query is run, and the results are retrieved.
+5. **Watsonx Model generates a response**: The results are used by the Watsonx model to generate a user-friendly response, including tables if necessary.
+6. **Response is returned to the user**: The final response is sent back to the user via WhatsApp.
 
 ![Database Chat Flow](images/database_chat.png)
 
