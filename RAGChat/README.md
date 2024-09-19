@@ -4,7 +4,7 @@
 
 This system analyzes customer reviews and provides actionable insights for businesses. It utilizes the Watsonx Granite model for processing, LangChain for natural language processing and retrieval, and Twilio for notifications. The system also leverages Pinecone for vector storage and retrieval.
 
-![RAG chat](/images/Rag_chat.png)
+![RAG chat](/images/RAG_Chat.png)
 
 ## Components
 
