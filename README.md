@@ -44,9 +44,9 @@ Daimyo connects seamlessly to the wealth of data available to restaurants—from
 
 > 📈 **Interactive analytics** that go beyond standard reports, giving you a complete understanding of your restaurant's performance.
 
-## 📹 In-Depth Demos
+## 📂 Explore Daimyo's Modules
 
-We've created detailed demo videos showcasing each module in action. Explore how Daimyo can transform restaurant management by clicking the links below:
+Explore each module in action and discover how Daimyo can transform restaurant management by clicking the links below:
 
 - [Custom Alerts](./CustomAlerts) – Learn how Daimyo sends automated alerts and suggests responses to reviews.
 - [Automated Reports](./AutomatedReports) – Watch how restaurants can set up and automate custom reports.
