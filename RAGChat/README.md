@@ -12,7 +12,7 @@ This system analyzes customer reviews and provides actionable insights for busin
 
 ## Components
 
-### 1. Flask App
+### 1. Next.js Frontend
 
 - **Endpoint**: `/reviews-chat`
 - **Function**: Receives POST requests with review data and user queries, processes them, and returns insights.
