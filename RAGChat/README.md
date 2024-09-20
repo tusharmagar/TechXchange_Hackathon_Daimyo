@@ -6,6 +6,10 @@ This system analyzes customer reviews and provides actionable insights for busin
 
 ![RAG chat](/images/RAG_Chat.png)
 
+## Dashboard
+![Dashboard1](/images/Dashboard1.png)
+![Dashboard2](/images/Dashboard2.png)
+
 ## Components
 
 ### 1. Flask App
