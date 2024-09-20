@@ -1,6 +1,9 @@
 # TechXchange_Hackathon_Daimyo
 Details the work done by team Daimyo for the IBM TechXchange Pre-Conference watsonx Hackathon under the path "Build a generative AI application for a use case supporting productivity with IBM watsonx.ai, featuring IBM Granite"
 
+## In-depth Video:
+https://vimeo.com/1011227666?share=copy#t=0
+
 ## ❓ What is Daimyo?
 
 Welcome to **Daimyo**, a comprehensive SaaS platform powered by **WatsonX AI's Granite models**, designed to help restaurants save time and optimize their operations. Built with accessibility and scalability in mind, Daimyo is already making a significant impact, streamlining restaurant operations and enhancing efficiency even in its current proof-of-concept stage.
