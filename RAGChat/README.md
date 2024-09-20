@@ -27,7 +27,8 @@ This system analyzes customer reviews and provides actionable insights for busin
 
 ## Workflow
 
-1. **Review Collection**: Collect reviews from various sources (e.g., social media, websites).
-2. **Data Processing**: Send collected reviews to the Watsonx Granite model for analysis.
-3. **Data Storage**: Store processed data in Pinecone for vector-based retrieval.
+1. **Review Collection**: Collect reviews from Google Reviews (with plans to expand to other sources).
+2. **Review Storage**: Store collected reviews in a vector database.
+3. **Dashboard Metrics**: Currently, the dashboard displays dummy data.
+4. **RAG Chat Insights**: When RAG Chat is run, it performs retrieval-augmented generation (RAG) on the vector database, sending insights along with the relevant reviews that were referenced.
 
