@@ -28,18 +28,6 @@ os.environ["WATSONX_APIKEY"] = ""
 os.environ["WATSONX_URL"] = "https://us-south.ml.cloud.ibm.com"
 os.environ["WATSONX_PROJECT_ID"] = ""
 
-# OpenAI API key and embeddings setup
-model_name = 'text-embedding-ada-002'
-embeddings = OpenAIEmbeddings(model=model_name, openai_api_key=os.environ["OPENAI_API_KEY"])
-
-# Initializing the Vector Store
-vectorstore = PineconeVectorStore(index_name=index_name, embedding=embeddings)
-retriever = vectorstore.as_retriever()
-
-# Flask app setup
-app = Flask(__name__)
-CORS(app)
-
 # WatsonX model parameters
 parameters = {
     "decoding_method": "sample",
@@ -55,6 +43,14 @@ chat = ChatWatsonx(
     project_id=os.environ["WATSONX_PROJECT_ID"],
     params=parameters,
 )
+
+# Initializing the Vector Store
+vectorstore = PineconeVectorStore(index_name=index_name, embedding=embeddings)
+retriever = vectorstore.as_retriever()
+
+# Flask app setup
+app = Flask(__name__)
+CORS(app)
 
 # Templates
 retriever_template = """You are a retriever tasked with retrieving the most relevant documents to the question and other parameters. 
@@ -114,6 +110,11 @@ def reviews_chat():
     date_str = create_date_str(start_date, end_date)
     response = chat_watsonx(user_query, rating, date_str)
     return jsonify(response)
+
+
+# OpenAI API key and embeddings setup
+model_name = 'text-embedding-ada-002'
+embeddings = OpenAIEmbeddings(model=model_name, openai_api_key=os.environ["OPENAI_API_KEY"])
 
 if __name__ == '__main__':
     app.run(debug=True, port=8000)
