@@ -8,6 +8,8 @@ This system monitors Google Reviews for specific places and handles them through
 ## Screenshots
 ### Review Alert Notification
 ![Custom Alerts](/images/Custom_alerts1.png)
+### Review Summary Notification
+![Custom Alerts](/images/Custom_alerts2.png)
 
 
 ## System Flow
