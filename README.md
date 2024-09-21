@@ -1,10 +1,16 @@
 # TechXchange_Hackathon_Daimyo
-Details the work done by team Daimyo for the IBM TechXchange Pre-Conference watsonx Hackathon under the path "Build a generative AI application for a use case supporting productivity with IBM watsonx.ai, featuring IBM Granite"
+Details the work done by team Daimyo for the IBM TechXchange Pre-Conference WatsonX Hackathon under the path "Build a generative AI application for a use case supporting productivity with IBM watsonx.ai, featuring IBM Granite"
+
+# Main Video:
+[![Watch the video](https://vumbnail.com/1011228119.jpg)](https://vimeo.com/1011228119)
+
+https://vimeo.com/1011228119
 
 # In-depth Video:
 [![Watch the video](https://vumbnail.com/1011227666.jpg)](https://vimeo.com/1011227666)
 
 https://vimeo.com/1011227666
+
 
 ## ❓ What is Daimyo?
 
