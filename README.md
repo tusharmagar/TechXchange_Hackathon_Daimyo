@@ -3,7 +3,8 @@ Details the work done by team Daimyo for the IBM TechXchange Pre-Conference wats
 
 # In-depth Video:
 [![Watch the video](https://vumbnail.com/1011227666.jpg)](https://vimeo.com/1011227666)
-\n https://vimeo.com/1011227666
+
+https://vimeo.com/1011227666
 
 ## ❓ What is Daimyo?
 
