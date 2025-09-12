@@ -64,6 +64,7 @@ Explore each module in action and discover how Daimyo can transform restaurant m
 ## 🙌 Conclusion
 
 Daimyo is just the beginning. We envision this platform scaling globally, empowering restaurants everywhere to optimize operations, improve customer service, and make smarter decisions, faster.
+Try Daimyo out now!
 
 While this is just a proof-of-concept, we are excited about the potential of WatsonX AI and look forward to building upon Daimyo in the future.
 
